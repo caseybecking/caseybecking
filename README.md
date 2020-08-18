@@ -5,7 +5,7 @@ To be fair most of my work isnt done here on github but is done on our internal 
 - 🔭 I’m currently working on Internal Automations for Security and Customer endpoint protection
 - 🌱 I’m currently learning Lockpicking
 - 👯 I’m looking to collaborate on Security related projects
-- 🤔 I’m looking for help with Open SOurce projects with a good cause!
+- 🤔 I’m looking for help with Open Source projects with a good cause!
 - 💬 Ask me about Hockey
 - 📫 How to reach me: [Website](https:caseybecking.com)
 - 😄 Pronouns: He/Him
