@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-To be fair most of my work isnt done here on github but is done on our internal gitlap repo's.
+To be fair most of my work isnt done here on github but is done on our internal git repo's.
 
 - 🔭 I’m currently working on Internal Automations for Security and Customer endpoint protection
 - 🌱 I’m currently learning Lockpicking
